@@ -26,7 +26,7 @@
 ### **📊 GitHub Stats**
 <div align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=NasirAhmedMalik&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NasirAhmedMalik&show_icons=true&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Nasir653&show_icons=true&theme=radical" />
 </div>
 
 ---
@@ -40,7 +40,7 @@
 
 ### **🏆 GitHub Profile Trophy**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NasirAhmedMalik&theme=dracula&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nasir653&theme=dracula&margin-w=15" />
 </p>
 
 ---
