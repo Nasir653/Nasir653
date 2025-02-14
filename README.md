@@ -48,7 +48,7 @@
 ### **📚 Latest Projects**
 | 🚀 Project Name | 🛠 Tech Stack | 🌐 Live Demo |
 |---------------|-------------|-------------|
-| [Step in Style]([https://github.com/Nasir653/Step_In_Style.git]) | React, Node.js, MongoDB | [Live](https://your-project.com) |
+| [Step in Style](https://github.com/Nasir653/Step_In_Style.git) | React, Node.js, MongoDB | [Live](https://your-project.com) |
 | [Course Platform](https://github.com/your-repo) | Nest.js, React.js, PostgreSQL | [Live](https://your-project.com) |
 
 ---
