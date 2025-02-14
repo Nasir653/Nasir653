@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nasir Ahmed Malik! 👋</h1>
+<h1 align="center">Hi, I'm Nasir Ahmad Malik! 👋</h1>
 <h3 align="center">🚀 Software Developer | MERN | .NET Core | AI Enthusiast</h3>
 
 <p align="center">
@@ -55,7 +55,7 @@
 
 ### **📫 Connect with Me**
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=react&logoColor=white"/></a>
-  <a href="https://github.com/NasirAhmedMalik"><img src="https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nasir-ahmad-250949250/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+  <a href="https://github.com/Nasir653"><img src="https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 </p>
