@@ -28,4 +28,4 @@
 ### 🤝 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=react&logoColor=white)](https://your-portfolio.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)](https://github.com/NasirAhmedMalik)
+[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)](https://github.com/Nasir653)
