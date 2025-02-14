@@ -18,7 +18,7 @@
 - 🔭 Currently working on **Step in Style** & an **Online Course Platform**  
 - 🌱 Learning **AI-based software development**  
 - 💬 Ask me about **React.js, Node.js, .NET Core, Nest.js**  
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)  
+- 📫 Reach me at: [[LinkedIn](https://linkedin.com/in/your-profile) ]  
 - ⚡ Fun fact: **I love coding late at night!** 🌙  
 
 ---
