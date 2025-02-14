@@ -26,7 +26,7 @@
 ### **📊 GitHub Stats**
 <div align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=NasirAhmedMalik&theme=radical" />
-  <img width="45%" src="https://github-readme-stats-nasirkhan653.vercel.app/api?username=Nasir653&show_icons=true&theme=radical" />
+ ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nasir653&show_icons=true&theme=radical)
 </div>
 
 ---
