@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Developer | MERN | .NET Core | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=F79327&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Expert;AI+Software+Enthusiast;Open-Source+Contributor;Coding+Late+Night+🌙" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=F79327&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Expert;.Net+Core+Expert;AI+Software+Enthusiast;Open-Source+Contributor;Coding+Late+Night+🌙" />
 </p>
 
 ---
