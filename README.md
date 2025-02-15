@@ -15,11 +15,17 @@
 ---
 
 ### **🚀 About Me**
-- 🔭 Currently working on **Step in Style** & an **Online Course Platform**  
-- 🌱 Learning **AI-based software development**  
-- 💬 Ask me about **Node.js, .NET Core, React.js, Next.js**  
-- 📫 Reach me at: [[LinkedIn](https://linkedin.com/in/nasir-ahmad-250949250/) ]  
-- ⚡ Fun fact: **I love coding late at night!** 🌙  
+🔭 Passionate about full-stack development & AI-driven solutions
+
+🌱 Continuously learning & improving my problem-solving skills
+
+💻 Experienced in Node.js, .NET Core, React.js, Next.js, and SQL
+
+🎯 Love working on challenging projects & innovative ideas
+
+📫 Reach me at: [LinkedIn]
+
+⚡ Fun fact: Late-night coding & debugging are my superpowers! 🌙
 
 ---
 
