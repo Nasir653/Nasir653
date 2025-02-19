@@ -23,8 +23,8 @@
 
 🎯 Love working on challenging projects & innovative ideas
 
-📫 Reach me at: [ <a href="https://linkedin.com/in/nasir-ahmad-250949250/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
- ]
+📫 Reach me at: <a href="https://linkedin.com/in/nasir-ahmad-250949250/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+ 
 
 ⚡ Fun fact: Late-night coding & debugging are my superpowers! 🌙
 
