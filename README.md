@@ -55,8 +55,10 @@
 ### **📚 Latest Projects**
 | 🚀 Project Name | 🛠 Tech Stack | 🌐 Live Demo |
 |---------------|-------------|-------------|
+| [LearnX](https://github.com/Nasir653/LearnX) |.Net, React, Sql  | [Live](https://your-project.com) |
 | [Step in Style](https://github.com/Nasir653/Step_In_Style.git) | React, Node.js, MongoDB | [Live](https://your-project.com) |
 | [Bloggie](https://github.com/Nasir653/Bloggie.git) | .Net, Mvc, Sql | [Live](https://your-project.com) |
+
 
 ---
 
